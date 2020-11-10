@@ -8,7 +8,6 @@ class ColorBox extends Component {
         this.state = {
             copied: false
         }
-
         this.changeCopystate = this.changeCopystate.bind(this);
     }
 
